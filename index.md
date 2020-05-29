@@ -488,11 +488,11 @@ http://www.templatemo.com/tm-515-eatery
                               </div>
 
                               <div class="item">
-                                   <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed vestibulum orci quam.</p>
+                                   <p>Delicious and fresh snacks. Familial dishes that offer the best of brahmin cuisine, and that too at very reasonable rates. Delivery is also very prompt.
+Try once and you'll keep buying.</p>
                                         <div class="tst-author">
                                              <h4>Ashil Varghese</h4>
-                                             Delicious and fresh snacks. Familial dishes that offer the best of brahmin cuisine, and that too at very reasonable rates. Delivery is also very prompt.
-Try once and you'll keep buying.
+                                             
 
                                         </div>
                               </div>
