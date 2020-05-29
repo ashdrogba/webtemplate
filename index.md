@@ -488,8 +488,7 @@ http://www.templatemo.com/tm-515-eatery
                               </div>
 
                               <div class="item">
-                                   <p>Delicious and fresh snacks. Familial dishes that offer the best of brahmin cuisine, and that too at very reasonable rates. Delivery is also very prompt.
-Try once and you'll keep buying.</p>
+                                   <p>Delicious and fresh snacks. Familial dishes that offer the best of brahmin cuisine, and that too at very reasonable rates. Delivery is also very prompt. Try once and you'll keep buying.</p>
                                         <div class="tst-author">
                                              <h4>Ashil Varghese</h4>
                                              
