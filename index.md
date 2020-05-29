@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 
-     <title>Sree Rams Cafe </title>
+     <title>Eatery Cafe and Restaurant Template</title>
 <!-- 
 
 Eatery Cafe Template 
@@ -52,7 +52,7 @@ http://www.templatemo.com/tm-515-eatery
                     </button>
 
                     <!-- lOGO TEXT HERE -->
-                    <a href="index.html" class="navbar-brand">Sree Rams <span></span> Cafe</a>
+                    <a href="index.html" class="navbar-brand">Eatery <span>.</span> Cafe</a>
                </div>
 
                <!-- MENU LINKS -->
@@ -86,7 +86,7 @@ http://www.templatemo.com/tm-515-eatery
                                         <div class="col-md-8 col-sm-12">
                                              <h3>Sree Rams Snacks & Curry Powder </h3>
                                              <h1>Place your orders on Facebook/Insta</h1>
-                                             <!--<a href="#team" class="section-btn btn btn-default smoothScroll">Meet our chef</a>-->
+                                             <a href="#team" class="section-btn btn btn-default smoothScroll">Meet our chef</a>
                                         </div>
                                    </div>
                               </div>
@@ -97,7 +97,7 @@ http://www.templatemo.com/tm-515-eatery
                                    <div class="container">
                                         <div class="col-md-8 col-sm-12">
                                              <h3>Your Perfect Snack</h3>
-                                             <h1>Free Doorstep Delivery!(Min. Order of Rs. 100)</h1>
+                                             <h1>Free Doorstep Delivery!</h1>
                                              <a href="#menu" class="section-btn btn btn-default smoothScroll">Discover menu</a>
                                         </div>
                                    </div>
@@ -108,7 +108,7 @@ http://www.templatemo.com/tm-515-eatery
                               <div class="caption">
                                    <div class="container">
                                         <div class="col-md-8 col-sm-12">
-                                             <h3>The perfect snack in Trivandrum!</h3>
+                                             <h3>New Snacks in Trivandrum!</h3>
                                              <h1>We undertake party orders as well!</h1>
                                              <a href="#contact" class="section-btn btn btn-default smoothScroll">Reservation</a>
                                         </div>
@@ -149,6 +149,88 @@ http://www.templatemo.com/tm-515-eatery
                </div>
           </div>
      </section>
+
+
+     <!-- TEAM -->
+     <section id="team" data-stellar-background-ratio="0.5">
+          <div class="container">
+               <div class="row">
+
+                    <div class="col-md-12 col-sm-12">
+                         <div class="section-title wow fadeInUp" data-wow-delay="0.1s">
+                              <h2>Meet our chefs</h2>
+                              <h4>They are nice &amp; friendly</h4>
+                         </div>
+                    </div>
+
+                    <div class="col-md-4 col-sm-4">
+                         <div class="team-thumb wow fadeInUp" data-wow-delay="0.2s">
+                              <img src="images/team-image1.jpg" class="img-responsive" alt="">
+                                   
+                                   <!--<div class="team-hover">
+                                        <div class="team-item">
+                                             <h4>Duis vel lacus id magna mattis vehicula</h4> 
+                                             <ul class="social-icon">
+                                                  <li><a href="#" class="fa fa-linkedin-square"></a></li>
+                                                  <li><a href="#" class="fa fa-envelope-o"></a></li>
+                                             </ul>
+                                        </div>
+                                   </div>
+                                   -->
+                         </div>
+                         <div class="team-info">
+                              <h3>New Catherine</h3>
+                              <p>Kitchen Officer</p>
+                         </div>
+                    </div>
+
+                    <div class="col-md-4 col-sm-4">
+                         <div class="team-thumb wow fadeInUp" data-wow-delay="0.4s">
+                              <img src="images/team-image2.jpg" class="img-responsive" alt="">
+                              <!--
+                                   <div class="team-hover">
+                                        <div class="team-item">
+                                             <h4>Cras suscipit neque quis odio feugiat</h4>
+                                             <ul class="social-icon">
+                                                  <li><a href="#" class="fa fa-instagram"></a></li>
+                                                  <li><a href="#" class="fa fa-flickr"></a></li>
+                                             </ul>
+                                        </div>
+                                   </div>
+                                -->
+                         </div>
+                         <div class="team-info">
+                              <h3>Lindsay Perlen</h3>
+                              <p>Owner &amp; Manager</p>
+                         </div>
+                    </div>
+
+                    <div class="col-md-4 col-sm-4">
+                         <div class="team-thumb wow fadeInUp" data-wow-delay="0.6s">
+                              <img src="images/team-image3.jpg" class="img-responsive" alt="">
+                              <!--
+                                   <div class="team-hover">
+                                        <div class="team-item">
+                                             <h4>Etiam auctor enim tristique faucibus</h4>
+                                             <ul class="social-icon">
+                                                  <li><a href="#" class="fa fa-github"></a></li>
+                                                  <li><a href="#" class="fa fa-google"></a></li>
+                                             </ul>
+                                        </div>
+                                   </div>
+                                -->
+                         </div>
+                         <div class="team-info">
+                              <h3>Isabella Grace</h3>
+                              <p>Pizza Specialist</p>
+                         </div>
+                    </div>
+                    
+               </div>
+          </div>
+     </section>
+
+
      <!-- MENU-->
      <section id="menu" data-stellar-background-ratio="0.5">
           <div class="container">
@@ -380,7 +462,7 @@ http://www.templatemo.com/tm-515-eatery
                     </div>
                </div>
           </div>
-     </section>-->
+     </section>
 
 
      <!-- TESTIMONIAL -->
@@ -406,11 +488,10 @@ http://www.templatemo.com/tm-515-eatery
                               </div>
 
                               <div class="item">
-                                   <p>Delicious and fresh snacks. Familial dishes that offer the best of brahmin cuisine, and that too at very reasonable rates. Delivery is also very prompt. Try once and you'll keep buying.</p>
+                                   <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed vestibulum orci quam.</p>
                                         <div class="tst-author">
                                              <h4>Ashil Varghese</h4>
-                                             
-
+                                             <span>Magna nisi porta ligula</span>
                                         </div>
                               </div>
 
