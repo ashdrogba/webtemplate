@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 
-     <title>Eatery Cafe and Restaurant Template</title>
+     <title>Sree Rams Cafe </title>
 <!-- 
 
 Eatery Cafe Template 
@@ -52,7 +52,7 @@ http://www.templatemo.com/tm-515-eatery
                     </button>
 
                     <!-- lOGO TEXT HERE -->
-                    <a href="index.html" class="navbar-brand">Eatery <span>.</span> Cafe</a>
+                    <a href="index.html" class="navbar-brand">Sree Rams <span></span> Cafe</a>
                </div>
 
                <!-- MENU LINKS -->
@@ -86,7 +86,7 @@ http://www.templatemo.com/tm-515-eatery
                                         <div class="col-md-8 col-sm-12">
                                              <h3>Sree Rams Snacks & Curry Powder </h3>
                                              <h1>Place your orders on Facebook/Insta</h1>
-                                             <a href="#team" class="section-btn btn btn-default smoothScroll">Meet our chef</a>
+                                             <!--<a href="#team" class="section-btn btn btn-default smoothScroll">Meet our chef</a>-->
                                         </div>
                                    </div>
                               </div>
@@ -97,7 +97,7 @@ http://www.templatemo.com/tm-515-eatery
                                    <div class="container">
                                         <div class="col-md-8 col-sm-12">
                                              <h3>Your Perfect Snack</h3>
-                                             <h1>Free Doorstep Delivery!</h1>
+                                             <h1>Free Doorstep Delivery!(Min. Order of Rs. 100)</h1>
                                              <a href="#menu" class="section-btn btn btn-default smoothScroll">Discover menu</a>
                                         </div>
                                    </div>
@@ -108,7 +108,7 @@ http://www.templatemo.com/tm-515-eatery
                               <div class="caption">
                                    <div class="container">
                                         <div class="col-md-8 col-sm-12">
-                                             <h3>New Snacks in Trivandrum!</h3>
+                                             <h3>The perfect snack in Trivandrum!</h3>
                                              <h1>We undertake party orders as well!</h1>
                                              <a href="#contact" class="section-btn btn btn-default smoothScroll">Reservation</a>
                                         </div>
@@ -152,7 +152,7 @@ http://www.templatemo.com/tm-515-eatery
 
 
      <!-- TEAM -->
-     <section id="team" data-stellar-background-ratio="0.5">
+     <!--<section id="team" data-stellar-background-ratio="0.5">
           <div class="container">
                <div class="row">
 
@@ -462,7 +462,7 @@ http://www.templatemo.com/tm-515-eatery
                     </div>
                </div>
           </div>
-     </section>
+     </section>-->
 
 
      <!-- TESTIMONIAL -->
@@ -491,7 +491,9 @@ http://www.templatemo.com/tm-515-eatery
                                    <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed vestibulum orci quam.</p>
                                         <div class="tst-author">
                                              <h4>Ashil Varghese</h4>
-                                             <span>Magna nisi porta ligula</span>
+                                             Delicious and fresh snacks. Familial dishes that offer the best of brahmin cuisine, and that too at very reasonable rates. Delivery is also very prompt.
+Try once and you'll keep buying.
+
                                         </div>
                               </div>
 
