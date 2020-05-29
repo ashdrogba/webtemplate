@@ -218,7 +218,6 @@ http://www.templatemo.com/tm-515-eatery
                                              </ul>
                                         </div>
                                    </div>
-                                -->
                          </div>
                          <div class="team-info">
                               <h3>Isabella Grace</h3>
@@ -228,7 +227,7 @@ http://www.templatemo.com/tm-515-eatery
                     
                </div>
           </div>
-     </section>
+     </section>-->
 
 
      <!-- MENU-->
